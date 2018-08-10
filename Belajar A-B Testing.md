@@ -21,7 +21,7 @@ yang sama.
 **3. Cara Kerja A/B Testing pada fungsi Web development**\
 Secara umum, berikut ini adalah siklus dari A/B testing pada
 fungsi Web development :
- 
+
 * Memutuskan apa yang ingin kamu ubah
 
 * Menggunakan tool A/B testing otomatis untuk melakukan implementasi perubahan secara visual.
@@ -35,6 +35,7 @@ fungsi Web development :
 * Ulangi seluruh langkah di atas hingga kamu atau perusahaanmu bangk rut — atau diakuisisi.
 Terdapat tiga tool A/B testing yang umum digunakan: Optimizely, VWO, dan Google Optimize. Tool yang terakhir ini gratis, memiliki fitur penuh, dan terintegrasi dengan Google Analytics. Saya merekomendasikan tool ini.
 <a href="https://ibb.co/em01fe"><img src="https://preview.ibb.co/hbkCmK/D1.png" alt="D1" border="0"></a>
+
 **4. Langkah - Langkah dan Penjelasan A/B Testing :**\
 **Step 1 : Menentukan dan memilih karakteristik metrik untuk melakukan uji kenormalan dan evaluasi**\
 Karakteristik metrik yang kita digunakan untuk uji kenormalan ini disebut invariant metrik. Invariant metrik yang kita gunakan ini tidak terpengaruh terhadap percobaan yang kita lakukan, sedangkan metrik evaluasi yang kita pilih digunakan untuk mengukur variasi mana yang lebih baik.\
