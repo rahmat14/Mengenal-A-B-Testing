@@ -2,6 +2,7 @@
 Pada tulisan ini anda akan mengetahui bagaimana melakukan sebuah eksperimen untuk memberikan nilai optimisasi dari 2 elemen/fitur sehingga kita dapat menentukan yang terbaik, eksperimen ini disebut dengan A/B Testing, A/B Testing dapat dilakukan pada bidang bisnis, teknologi, retail, dan lain - lain. Pada penjelasan ini kita diharapkan mampu mendesign atau merumuskan masalah dan membuat sebuah metrik penilaian terhadap eksperimen. Tujuan besar untuk melakukan A/B Testing adalah untuk menebak atau mengetahui perubahan yang terjadi terhadap ekseperimen yang kita lakukan untuk mengoptimalkan keputusan bisnis dari suatu pernyataan "kami pikir" menjadi "kami tahu".\
 **1. Pengertian A/B Testing**\
 <a href="https://ibb.co/cucV6K"><img src="https://preview.ibb.co/nvUcmK/gambar.jpg" alt="gambar" border="0"></a>
+
 A/B Testing adalah suatu metode yang digunakan untuk menguji 
 suatu performa, misalkan sebuah website atau campaign dengan 
 cara membandingkan suatu responn dari masing - masing variasi. Pada intinya dalam memahami pengertian dasar dari A/B Testing seperti anda memiliki dua versi dari suatu elemen (A / B) yang ingin anda uji dan anda juga sudah mendefinisikan suatu metrik(ukuran penilaian) dari kedua elemen tersebut. Variasi desain 
@@ -19,7 +20,8 @@ yang sama.
 
 **3. Cara Kerja A/B Testing pada fungsi Web development**\
 Secara umum, berikut ini adalah siklus dari A/B testing pada
-fungsi Web development : 
+fungsi Web development :
+ 
 * Memutuskan apa yang ingin kamu ubah
 
 * Menggunakan tool A/B testing otomatis untuk melakukan implementasi perubahan secara visual.
