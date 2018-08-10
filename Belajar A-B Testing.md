@@ -48,5 +48,11 @@ Berikut ini beberapa hal yang perlu dilakukan dalam mengakhirin langkah A/B Test
 * *Analisis hasil eksperimen*
 * *Menarik kesimpulan*
 
+**5. Melakukan simulasi membuat metrik perhitungan dalam A/B Testing**\
+Dalam memahami lebih lanjut mengenai metrik - metrik dalam melakukan A/B Testing, kita akan membuat simulasi melakukan A/B Testing serta membuat metrik - metriknya juga, berikut simulasinya :
+Eksperimen : Kita akan melakukan eksperimen terkait **"Siswa yang mengambil course di Udacity akan mendapatkan pekerjaan"**
+Ada beberapa metrik yang akan dilakukan eksperimen dengan A/B Testing terhadap beberapa langka - langkah dari mulai calon siswa melakukan sign up ke webiste udacity, melakukan registrasi, memilih course yang akan diambil sampai membayar dan mengikuti course higga selesai hingga mereka mendapatkan pekerjaan sesuai dengan course yang mereka ambil. Berikut ini gambaran metrik yang dapat dibuat
+<a href="https://ibb.co/gkTx6U"><img src="https://preview.ibb.co/dwim0p/metrik.jpg" alt="metrik" border="0"></a>
+dengan goals atau tujuan dari semua proses tersebut dengan A/B Testing adalah untuk **"mendapatkan tampilan dan layanan terbaik yang dapat diberikan oleh website Udacity"**.
 
 
